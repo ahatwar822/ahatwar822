@@ -1,7 +1,10 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm "AMAN HATWAR"</h1>
 <h3 align="center">A passionate IT enthusiast</h3>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="400"> -->
- <p align="center"><img src="https://github.com/n4f1hz4in/portfolio/blob/main/What-is-ZoomBombing-and-how-to-prevent-zoom-hacking.gif" width="500"></p>
+ <p align="center"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" width="600"></p>
  
 
 <br><br>
