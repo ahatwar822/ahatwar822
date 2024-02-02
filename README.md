@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm AMAN HATWAR</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm "AMAN HATWAR"</h1>
 <h3 align="center">A passionate IT enthusiast</h3>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="400"> -->
  <p align="center"><img src="https://github.com/n4f1hz4in/portfolio/blob/main/What-is-ZoomBombing-and-how-to-prevent-zoom-hacking.gif" width="500"></p>
@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n4f1hz4in&label=Profile%20views&color=0e75b6&style=flat" alt="n4f1hz4in" /> </p>
 
-<p align="center">📫🚀🚀 Reach me out:**stupidzerox@gmail.com**
+<p align="center">📫🚀🚀 Reach me out:**ahatwar822@gmail.com**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
