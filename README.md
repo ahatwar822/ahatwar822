@@ -7,6 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahatwar822&label=Profile%20views&color=0e75b6&style=flat" alt="ahatwar822" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahatwar822" alt="ahatwar822" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="right">📫🚀🚀 Reach me out:**ahatwar822@gmail.com**</p>
+
 
 ###
 
@@ -15,6 +18,8 @@
 ###
 
 <p align="left">I'm AMAN HATWAR </p>
+ 
+
 
 ###
 - 🔭 I’m working as **Web Devlopor**
@@ -22,8 +27,6 @@
 - 💬 Ask me about **MEAN**
 
 - 👯 I’m looking to collaborate on **Cloud native Project**
-
-- 📫 How to reach me **ahatwar822@gmail.com**
 
 - 👨‍💻 All of my projects are available at [github.com/ahatwar822](github.com/ahatwar822)
 
@@ -128,7 +131,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm "AMAN HATWAR"</h1>
 <h3 align="center">A passionate IT enthusiast</h3>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="400"> -->
- <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"></p>
  
 <!-- ............................................................................................................................................... -->
 
@@ -136,7 +138,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n4f1hz4in&label=Profile%20views&color=0e75b6&style=flat" alt="n4f1hz4in" /> </p>
 
-<p align="center">📫🚀🚀 Reach me out:**ahatwar822@gmail.com**
+
 </p>
 
 
