@@ -1,5 +1,5 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
+<img alt="background img" src="https://media.licdn.com/dms/image/D5616AQEA_ChFFOssow/profile-displaybackgroundimage-shrink_350_1400/0/1683711590515?e=1712793600&v=beta&t=nLLRWSi5WtUFrYvt7AW8ywgR9NikF4UnaQdQFF4y4E4">
 
 <h1 align="center">Hi 👋, I'm AMAN HATWAR</h1>
 <h3 align="center">A passionate IT enthusiast from India</h3>
