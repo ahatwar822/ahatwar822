@@ -23,14 +23,13 @@
 
 ###
 - 🔭 I’m working as **Web Devlopor**
-- 📚 I'm currently learning **Docker**
+
 - 💬 Ask me about **MEAN**
 
 - 👯 I’m looking to collaborate on **Cloud native Project**
 
 - 👨‍💻 All of my projects are available at [github.com/ahatwar822](github.com/ahatwar822)
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
