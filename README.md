@@ -1,6 +1,4 @@
-
-<img src = "https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif" width = "100%" height = "300px" >
-<img src = "https://www.kotaku.com.au/wp-content/uploads/2019/03/20/a6oqnwezehro8l3yh0vr.gif">
+<img src = "mouth2.gif" width = "100%" height = "330px">
 
 
 <h1 align="center">Hi 👋, I'm AMAN HATWAR</h1>
