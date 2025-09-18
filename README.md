@@ -6,21 +6,22 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
 </p>
 
-<!-- code part -->
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">import</span><span style="color:#E1E4E8"> SoftwareDeveloper </span><span style="color:#F97583">from</span><span style="color:#9ECBFF"> 'India'</span><span style="color:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> Bio</span><span style="color:#F97583"> extends</span><span style="color:#B392F0"> SoftwareDeveloper</span><span style="color:#E1E4E8"> {</span></span>
-<span class="line"><span style="color:#FFAB70">  name</span><span style="color:#F97583">     =</span><span style="color:#9ECBFF"> 'Hatwar Aman'</span><span style="color:#E1E4E8">;</span></span>
-<span class="line"><span style="color:#FFAB70">  title</span><span style="color:#F97583">    =</span><span style="color:#9ECBFF"> 'Full Stack Developer'</span><span style="color:#E1E4E8">;</span></span>
-<span class="line"><span style="color:#FFAB70">  company</span><span style="color:#F97583">  =</span><span style="color:#9ECBFF"> 'Pipoca Digital | Remote'</span><span style="color:#E1E4E8">;</span></span>
-<span class="line"><span style="color:#FFAB70">  location</span><span style="color:#F97583"> =</span><span style="color:#9ECBFF"> 'India'</span><span style="color:#E1E4E8">;</span></span>
-<span class="line"><span style="color:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> Skills</span><span style="color:#F97583"> extends</span><span style="color:#B392F0"> SoftwareDeveloper</span><span style="color:#E1E4E8"> {</span></span>
-<span class="line"><span style="color:#FFAB70">  languages</span><span style="color:#F97583">  =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">'JavaScript'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'PHP'</span><span style="color:#E1E4E8">];</span></span>
-<span class="line"><span style="color:#FFAB70">  databases</span><span style="color:#F97583">  =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">'MySQL'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'MongoDB'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'PostgreSQL'</span><span style="color:#E1E4E8">];</span></span>
-<span class="line"><span style="color:#FFAB70">  frameworks</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">'React'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'React Native'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Angular'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'GraphQL'</span><span style="color:#E1E4E8">];</span></span>
-<span class="line"><span style="color:#E1E4E8">}</span></span></code></pre>
+```javascript
+import SoftwareDeveloper from 'India';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Hatwar Aman';
+  title    = 'Full Stack Developer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'India';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+
+````
 <hr>
 
 <!-- profile views -->
