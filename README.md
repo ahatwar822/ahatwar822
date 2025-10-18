@@ -1,10 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm AMAN HATWAR</h1>
-
 <!-- top image -->
+
+<!-- 
+<h1 align="center">Hi 👋, I'm AMAN HATWAR</h1>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
 </p>
+-->
 
 ```javascript
 import SoftwareDeveloper from 'India';
@@ -12,7 +14,7 @@ import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Hatwar Aman';
   title    = 'Full Stack Developer';
-  company  = 'Pipoca Digital | Remote';
+  email    = 'ahatwar822@gmail.com';
   location = 'India';
 }
 
@@ -187,10 +189,10 @@ class Skills extends SoftwareDeveloper {
 <!-- ............................................................................................................................................... -->
 
 
-
+<!--
 
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="400"> </h1>
-
+-->
 
 
 
